@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteRule ^beranda$ /spsst/index.php
+RewriteRule ^persyaratan$ /spsst/persyaratan.php
+RewriteRule ^form-pendaftaran$ /spsst/form.php
+RewriteRule ^pengumuman$ /spsst/pengumuman.php
+RewriteRule ^frequently-asked-question$ /spsst/faq.php
